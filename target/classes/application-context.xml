@@ -8,7 +8,7 @@
     http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
 <bean id="employee" class="com.spring.demo.EmployeeBean" autowire="byName">
-        <property name="fullName" value="Lokesh Gupta"/>
+        <property name="fullName" value="Rutvi Shah"/>
     </bean>
    
     <bean id="departmentBean" class="com.spring.demo.DepartmentBean" >
